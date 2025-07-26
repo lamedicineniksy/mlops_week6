@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+iris_model.pkl
+.venv/
